@@ -4,8 +4,8 @@ using UnityEngine;
 public class playerMove : MonoBehaviour
 {
     // Movement parameters
-    private float runSpeed = 10f;
-    private float accel = 10f;
+    private float runSpeed = 40f;
+    private float accel = 20f;
     private float floorFriction = 0.1f;
     public float jumpForce = 20f;
     public float speed;
